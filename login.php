@@ -19,7 +19,7 @@
     <body>
         <?php
         if ($res -> num_rows == 1)
-            echo 'Sikeresen bejelenkteztél!';
+            echo 'Sikeresen bejelenkteztél!  '.$username;
         ?>
     </body>
 </html>
