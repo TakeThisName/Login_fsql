@@ -33,6 +33,7 @@
     <body>
         <?php
         echo "Szép estét!  {$name}";
+        echo '<br><a href="logout.php">Kilép</a>';
         ?>
     </body>
 </html>
